@@ -5,5 +5,5 @@ title: About
 
 ## About
 
-Hi, nice to meet you.\
-### I am a frontend engineer
+Hi, nice to meet you.
+### I am an aspiring frontend engineer with passion in building user-centric applications and looking forward to further learning and collaboration.
